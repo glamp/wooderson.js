@@ -2,7 +2,7 @@
 
 A little zen from MM.
 
-![Wooderson](./src/wooderson.jpg)
+![Wooderson](https://raw.githubusercontent.com/glamp/wooderson.js/master/src/wooderson.jpg)
 
 
 ## Installation
