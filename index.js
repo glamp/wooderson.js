@@ -1,7 +1,8 @@
-var fs = require('fs');
+var fs = require('fs')
+  , path = require('path');
 
 var wooderson = [];
-var lines = fs.readFileSync('./src/dazed_and_confused.txt')
+var lines = fs.readFileSync(path.join(__dirname, './src/dazed_and_confused.txt'))
              .toString()
              .split('\n'); 
 var printNext = false;
