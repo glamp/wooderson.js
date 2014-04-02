@@ -1,4 +1,4 @@
-# mcconaughey.js
+# wooderson.js
 
 A little zen from MM.
 
@@ -10,11 +10,11 @@ A little zen from MM.
 This module is installed via npm:
 
 ``` bash
-$ npm install mcconaughey.js
+$ npm install wooderson.js
 ```
 
 ## Example Usage
 
 ``` js
-var mcconaughey = require('mcconaughey.js');
+var wooderson = require('wooderson.js');
 ```

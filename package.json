@@ -1,5 +1,5 @@
 {
-  "name": "mcconaughey.js",
+  "name": "wooderson.js",
   "version": "0.0.1",
   "description": "A little zen from MM.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "author": "Greg Lamp <lamp.greg@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/glamp/mcconaugheyjs/issues"
+    "url": "https://github.com/glamp/wooderson.js/issues"
   },
   "dependencies": {},
   "devDependencies": {
