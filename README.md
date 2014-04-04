@@ -23,7 +23,7 @@ wooderson(function(quote) {
 
 ## My personal amusement
 ```bash
-$ npm install -g wooderson.js
+$ npm install wooderson.js
 $ node -e "console.log(require('wooderson.js')())" | say
 ```
 
