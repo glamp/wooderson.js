@@ -5,15 +5,8 @@ A little zen from MM.
 ![Wooderson](https://raw.githubusercontent.com/glamp/wooderson.js/master/src/wooderson.jpg)
 
 
-## Installation
-
-This module is installed via npm:
-
-``` bash
-$ npm install wooderson.js
-```
-
 ## Example Usage
+Just a few of the __many__ use-cases.
 
 ``` js
 var wooderson = require('wooderson.js');
@@ -26,4 +19,18 @@ wooderson(function(quote) {
   console.log(quote);
 });
 // Guys. Party at the Moon Tower.
+```
+
+## My personal amusement
+```bash
+$ npm install -g wooderson.js
+$ node -e "console.log(require('wooderson.js')())" | say
+```
+
+## Installation
+
+This module is installed via npm:
+
+``` bash
+$ npm install wooderson.js
 ```
